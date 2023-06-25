@@ -1,4 +1,4 @@
-Exited with error status 1Exited with error status 1var myQuestions = [
+var myQuestions = [
 	{
 		question: "Qual a alternativa correta?",
 		answers: {
@@ -145,7 +145,6 @@ Exited with error status 1Exited with error status 1var myQuestions = [
 		},
 		correctAnswer: 'a'
 		},
-},
 	{
 		question: "Qual o maior órgão do nosso corpo?",
 		answers: {
@@ -156,14 +155,13 @@ Exited with error status 1Exited with error status 1var myQuestions = [
 		},
 		correctAnswer: 'd'
 		},
-},
 	{
 		question: "O Sol é ...",
 		answers: {
 			a: 'Um asteroide',
 			b: 'Uma estrela',
-			c: 'Um asteroide'
-         d: 'Um planeta'
+			c: 'Um asteroide',
+   d: 'Um planeta'
 		},
 		correctAnswer: 'b'
 		},
